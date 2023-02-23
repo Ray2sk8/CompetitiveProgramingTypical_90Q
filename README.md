@@ -1,0 +1,2 @@
+# CompetitiveProgramingTypical_90Q
+Competitive programming typical 90 questions
